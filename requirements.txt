@@ -1,0 +1,4 @@
+ipython==0.13.2
+pyzmq==13.1.0
+requests==1.2.3
+tornado==3.1
