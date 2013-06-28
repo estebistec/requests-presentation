@@ -1,8 +1,11 @@
-# PythonKC - June 2013 - Module of the Month - Requests 
+# Requests Presentation
 
-
-    mkvirtualenv pykc-2013-06-motm-requests
-    git clone https://github.com/estebistec/pykc-2013-06-motm-requests
-    cd pykc-2013-06-motm-requests
+    mkvirtualenv requests-presentation
+    git clone https://github.com/estebistec/requests-presentation
+    cd requests-presentation
     pip install -r requirements.txt
     ipython notebook
+
+## Events
+
+* PythonKC - June 2013 - Module of the Month
