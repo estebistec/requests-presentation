@@ -1,5 +1,6 @@
 # Requests Presentation
 
+    brew install zeromq
     mkvirtualenv requests-presentation
     git clone https://github.com/estebistec/requests-presentation
     cd requests-presentation
